@@ -1,0 +1,996 @@
+fileFormatVersion: 2
+guid: fe56be276885bfe42a24602e233b7d04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4587274921706807107
+    second: Girl-2_0
+  - first:
+      213: -4513699438716684427
+    second: Girl-2_1
+  - first:
+      213: -4113210240845415884
+    second: Girl-2_2
+  - first:
+      213: -2197654056466210071
+    second: Girl-2_3
+  - first:
+      213: -5688265536391068753
+    second: Girl-2_4
+  - first:
+      213: 4834430801114145809
+    second: Girl-2_5
+  - first:
+      213: 5872626003385333912
+    second: Girl-2_6
+  - first:
+      213: -3881773248501113377
+    second: Girl-2_7
+  - first:
+      213: 1145427504411529871
+    second: Girl-2_8
+  - first:
+      213: 3501920366069054811
+    second: Girl-2_9
+  - first:
+      213: -3710844408161438737
+    second: Girl-2_10
+  - first:
+      213: -2143348421935984508
+    second: Girl-2_11
+  - first:
+      213: -4859968506420154990
+    second: Girl-2_12
+  - first:
+      213: -1762587335171675825
+    second: Girl-2_13
+  - first:
+      213: -5935324328273423540
+    second: Girl-2_14
+  - first:
+      213: -5416796330079836558
+    second: Girl-2_15
+  - first:
+      213: -2812311732637530962
+    second: Girl-2_16
+  - first:
+      213: -7555992935130670120
+    second: Girl-2_17
+  - first:
+      213: -3223124605219093212
+    second: Girl-2_18
+  - first:
+      213: -7766475247998299271
+    second: Girl-2_19
+  - first:
+      213: 3355729235920987787
+    second: Girl-2_20
+  - first:
+      213: 1983024833625805214
+    second: Girl-2_21
+  - first:
+      213: 6354197188058477021
+    second: Girl-2_22
+  - first:
+      213: 1564802748337937023
+    second: Girl-2_23
+  - first:
+      213: 6888800655511989853
+    second: Girl-2_24
+  - first:
+      213: 4266113047859446232
+    second: Girl-2_25
+  - first:
+      213: -4049909091286829070
+    second: Girl-2_26
+  - first:
+      213: -9043389728753249965
+    second: Girl-2_27
+  - first:
+      213: -8659528065170384431
+    second: Girl-2_28
+  - first:
+      213: -6625443349665247658
+    second: Girl-2_29
+  - first:
+      213: 4751561972303661917
+    second: Girl-2_30
+  - first:
+      213: -6841877287405325463
+    second: Girl-2_31
+  - first:
+      213: -3738756018223841651
+    second: Girl-2_32
+  - first:
+      213: -5926263161142584539
+    second: Girl-2_33
+  - first:
+      213: -6443328831573770437
+    second: Girl-2_34
+  - first:
+      213: -8002981080370523351
+    second: Girl-2_35
+  - first:
+      213: -8280963958520332880
+    second: Girl-2_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Girl-2_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 450
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f5463ac3649af30800000000000000
+      internalID: 4587274921706807107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 450
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577796c664e1c51c0800000000000000
+      internalID: -4513699438716684427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 450
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43af8e32411fae6c0800000000000000
+      internalID: -4113210240845415884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 450
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2a221874d5081e0800000000000000
+      internalID: -2197654056466210071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 450
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa34053e1a83f01b0800000000000000
+      internalID: -5688265536391068753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_5
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 450
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114ad9f1339571340800000000000000
+      internalID: 4834430801114145809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 377
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898318e4c32cf7150800000000000000
+      internalID: 5872626003385333912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 378
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd1a780ccb212ac0800000000000000
+      internalID: -3881773248501113377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 376
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82596c1f3065ef00800000000000000
+      internalID: 1145427504411529871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 375
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d704bd402599030800000000000000
+      internalID: 3501920366069054811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_10
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 376
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3fac2fbae608cc0800000000000000
+      internalID: -3710844408161438737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_11
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 377
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4809c9857fb4142e0800000000000000
+      internalID: -2143348421935984508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 303
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dad33846ced8cb0800000000000000
+      internalID: -4859968506420154990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 303
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f496d7148280a87e0800000000000000
+      internalID: -1762587335171675825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 304
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43578a58fd71ada0800000000000000
+      internalID: -5935324328273423540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 304
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276a3fcef6ca3d4b0800000000000000
+      internalID: -5416796330079836558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 304
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea40a722169a8f8d0800000000000000
+      internalID: -2812311732637530962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_17
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 302
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbdc287578b32790800000000000000
+      internalID: -7555992935130670120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 228
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42548179f392543d0800000000000000
+      internalID: -3223124605219093212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 227
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973923619efe73490800000000000000
+      internalID: -7766475247998299271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_20
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 228
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86a67de5f1f19e20800000000000000
+      internalID: 3355729235920987787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_21
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 228
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e915b05649e158b10800000000000000
+      internalID: 1983024833625805214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 228
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1f2033da4ae2850800000000000000
+      internalID: 6354197188058477021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_23
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 228
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7adc361fcb47b510800000000000000
+      internalID: 1564802748337937023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 154
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e2540a2bfe99f50800000000000000
+      internalID: 6888800655511989853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 154
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d14255d637443b30800000000000000
+      internalID: 4266113047859446232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_26
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 155
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f739398325dbc7c0800000000000000
+      internalID: -4049909091286829070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_27
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 157
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3511f34a4fc6f7280800000000000000
+      internalID: -9043389728753249965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_28
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 161
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d95ef8da1d23d780800000000000000
+      internalID: -8659528065170384431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_29
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 164
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e8ab76062bd04a0800000000000000
+      internalID: -6625443349665247658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b0a6f5070f0f140800000000000000
+      internalID: 4751561972303661917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 78
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963746f5bd4cc01a0800000000000000
+      internalID: -6841877287405325463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_32
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 80
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ef9efc5354d1cc0800000000000000
+      internalID: -3738756018223841651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_33
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 78
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bdc9abd0fa1cda0800000000000000
+      internalID: -5926263161142584539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_34
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 74
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f330fd092b496a0800000000000000
+      internalID: -6443328831573770437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_35
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 78
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923d758eb13bfe090800000000000000
+      internalID: -8002981080370523351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-2_36
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd3596772b141d80800000000000000
+      internalID: -8280963958520332880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
